@@ -1,7 +1,7 @@
 # Comparative Analysis of Dimensionality Reduction Methods on Single-Cell RNA-seq Data
 
 This repository contains the implementation and evaluation of three popular dimensionality reduction methods applied to single-cell RNA sequencing (scRNA-seq) datasets.  
-The work is based on the article *[A Comparison for Dimensionality Reduction Methods of Single-Cell RNA-seq Data](https://doi.org/10.3389/fgene.2021.646936)* :contentReference[oaicite:0]{index=0}.
+The work is based on the article *[A Comparison for Dimensionality Reduction Methods of Single-Cell RNA-seq Data](https://doi.org/10.3389/fgene.2021.646936)*.
 
 ---
 
