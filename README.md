@@ -1,17 +1,14 @@
 # Comparative Analysis of Dimensionality Reduction Methods on Single-Cell RNA-seq Data
 
-This repository contains the implementation and evaluation of three popular dimensionality reduction methods applied to single-cell RNA sequencing (scRNA-seq) datasets.  
+This repository contains the implementation and evaluation of four popular dimensionality reduction methods applied to single-cell RNA sequencing (scRNA-seq) datasets.  
 The work is based on the article *[A Comparison for Dimensionality Reduction Methods of Single-Cell RNA-seq Data](https://doi.org/10.3389/fgene.2021.646936)*.
 
 ---
 
 ## 📌 Overview
-Single-cell RNA-seq data are inherently **high-dimensional, sparse, and noisy**. Dimensionality reduction is essential for:
-- Visualization of cellular heterogeneity  
-- Identification of cell subpopulations  
-- Trajectory and lineage inference  
+Single-cell RNA-seq data are inherently high-dimensional, sparse, and noisy. 
 
-In this project, we implemented and compared the following four methods:
+In this project, I implemented and compared the following four methods:
 - **PCA (Principal Component Analysis)** – Linear method, baseline for dimensionality reduction  
 - **t-SNE (t-distributed Stochastic Neighbor Embedding)** – Nonlinear, excels at local structure preservation  
 - **UMAP (Uniform Manifold Approximation and Projection)** – Nonlinear, balances local and global structures with high stability  
